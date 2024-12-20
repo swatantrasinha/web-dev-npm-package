@@ -6,4 +6,4 @@ function isEvenLengthString(str) {
     return false;
 }
 
-module.exports= is-string-len-even;
+module.exports= isEvenLengthString;
